@@ -92,8 +92,3 @@ Maqsad: Tailwind CSS bo‘yicha pro darajaga o‘tish
 
 ## 17-dars: Tailwind CSS vs Bootstrap – Qaysi biri yaxshiroq?
 - Ikkalasining farqi va qaysi holatda qaysi biri yaxshi
-
-🔥 Natija:
-👉 Darslar seriyasi tugagandan so‘ng, odamlar Tailwind CSS'dan mustaqil foydalanishni o‘rganadi
-👉 YouTube kanaling uchun kuchli content bo‘ladi
-👉 Najot Ta’lim mentorligi uchun ham qo‘shimcha plus bo‘ladi
